@@ -1,10 +1,12 @@
-# Tetect Cell Division
+# Detect Cell Division
 
-This is an ML/DL Project. 
+This is a complex image classification problem with the help of neural networks.
 
-Goal: The program can detect if there is a cell division or not in the images with the help of neural networks.
+Goal: The program can detect if there is a cell division or not on each images.
 
-I annotated 936.600 60x60 images manually, alone.
+I annotated 936.600 images manually.
+
+There is a lot of data, so optimalization is a key factor.
 
 First, i built a convolutional neural network.
 
