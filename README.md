@@ -6,7 +6,7 @@ Goal: The program can detect if there is a cell division or not in the images wi
 
 I annotated 936.600 60x60 images manually, alone.
 
-First, i built a fully connected neural network.
+First, i built a convolutional neural network.
 
 # Plans
 
